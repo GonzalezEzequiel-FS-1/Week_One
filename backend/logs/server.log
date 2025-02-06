@@ -1463,3 +1463,113 @@
 [2025-02-06T05:14:28.986Z] INFO: ::ffff:127.0.0.1 - - [06/Feb/2025:05:14:28 +0000] "POST /api/obscurer HTTP/1.1" 200 77 "http://localhost:5173/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:134.0) Gecko/20100101 Firefox/134.0"
 [2025-02-06T05:14:35.153Z] INFO: ::ffff:127.0.0.1 - - [06/Feb/2025:05:14:35 +0000] "POST /api/obscurer HTTP/1.1" 200 75 "http://localhost:5173/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:134.0) Gecko/20100101 Firefox/134.0"
 [2025-02-06T05:14:39.248Z] INFO: ::ffff:127.0.0.1 - - [06/Feb/2025:05:14:39 +0000] "POST /api/obscurer HTTP/1.1" 200 78 "http://localhost:5173/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:134.0) Gecko/20100101 Firefox/134.0"
+[2025-02-06T19:41:03.227Z] INFO: Server Starting
+[2025-02-06T19:41:03.234Z] INFO: Server Running on port 6969
+[2025-02-06T19:41:24.024Z] INFO: ::ffff:127.0.0.1 - - [06/Feb/2025:19:41:24 +0000] "POST /api/obscurer HTTP/1.1" 200 76 "http://localhost:5173/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:134.0) Gecko/20100101 Firefox/134.0"
+[2025-02-06T19:41:42.333Z] INFO: ::ffff:127.0.0.1 - - [06/Feb/2025:19:41:42 +0000] "POST /api/obscurer HTTP/1.1" 200 78 "http://localhost:5173/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:134.0) Gecko/20100101 Firefox/134.0"
+[2025-02-06T19:42:30.846Z] INFO: Server Starting
+[2025-02-06T19:42:30.852Z] INFO: Server Running on port 6969
+[2025-02-06T19:42:34.035Z] INFO: Server Starting
+[2025-02-06T19:42:34.043Z] INFO: Server Running on port 6969
+[2025-02-06T19:43:06.647Z] INFO: Server Starting
+[2025-02-06T19:43:06.652Z] INFO: Server Running on port 6969
+[2025-02-06T19:43:27.149Z] INFO: Server Starting
+[2025-02-06T19:43:27.155Z] INFO: Server Running on port 6969
+[2025-02-06T19:43:30.761Z] INFO: Server Starting
+[2025-02-06T19:43:30.765Z] INFO: Server Running on port 6969
+[2025-02-06T19:43:44.532Z] INFO: Server Starting
+[2025-02-06T19:43:44.537Z] INFO: Server Running on port 6969
+[2025-02-06T19:43:45.516Z] INFO: Server Starting
+[2025-02-06T19:43:45.520Z] INFO: Server Running on port 6969
+[2025-02-06T19:43:48.290Z] INFO: Server Starting
+[2025-02-06T19:43:48.294Z] INFO: Server Running on port 6969
+[2025-02-06T19:43:53.556Z] INFO: Server Starting
+[2025-02-06T19:43:53.561Z] INFO: Server Running on port 6969
+[2025-02-06T19:43:56.496Z] INFO: Server Starting
+[2025-02-06T19:43:56.501Z] INFO: Server Running on port 6969
+[2025-02-06T19:43:58.907Z] INFO: Server Starting
+[2025-02-06T19:43:58.911Z] INFO: Server Running on port 6969
+[2025-02-06T19:44:15.255Z] INFO: Server Starting
+[2025-02-06T19:44:15.260Z] INFO: Server Running on port 6969
+[2025-02-06T19:44:20.451Z] INFO: Server Starting
+[2025-02-06T19:44:20.455Z] INFO: Server Running on port 6969
+[2025-02-06T19:44:34.915Z] INFO: Server Starting
+[2025-02-06T19:44:34.920Z] INFO: Server Running on port 6969
+[2025-02-06T19:44:38.327Z] INFO: Server Starting
+[2025-02-06T19:44:38.331Z] INFO: Server Running on port 6969
+[2025-02-06T19:44:51.039Z] INFO: Server Starting
+[2025-02-06T19:44:51.043Z] INFO: Server Running on port 6969
+[2025-02-06T19:45:13.322Z] INFO: Server Starting
+[2025-02-06T19:45:13.326Z] INFO: Server Running on port 6969
+[2025-02-06T19:45:15.518Z] INFO: Server Starting
+[2025-02-06T19:45:15.523Z] INFO: Server Running on port 6969
+[2025-02-06T19:45:17.537Z] INFO: Server Starting
+[2025-02-06T19:45:17.541Z] INFO: Server Running on port 6969
+[2025-02-06T19:45:35.296Z] INFO: Server Starting
+[2025-02-06T19:45:35.301Z] INFO: Server Running on port 6969
+[2025-02-06T19:45:37.682Z] INFO: Server Starting
+[2025-02-06T19:45:37.687Z] INFO: Server Running on port 6969
+[2025-02-06T19:45:39.287Z] INFO: Server Starting
+[2025-02-06T19:45:39.291Z] INFO: Server Running on port 6969
+[2025-02-06T19:45:46.186Z] INFO: Server Starting
+[2025-02-06T19:45:46.190Z] INFO: Server Running on port 6969
+[2025-02-06T19:45:48.747Z] INFO: Server Starting
+[2025-02-06T19:45:48.752Z] INFO: Server Running on port 6969
+[2025-02-06T19:45:55.865Z] INFO: Server Starting
+[2025-02-06T19:45:55.870Z] INFO: Server Running on port 6969
+[2025-02-06T19:45:58.493Z] INFO: Server Starting
+[2025-02-06T19:45:58.497Z] INFO: Server Running on port 6969
+[2025-02-06T19:46:03.865Z] INFO: Server Starting
+[2025-02-06T19:46:03.869Z] INFO: Server Running on port 6969
+[2025-02-06T19:46:08.350Z] INFO: Server Starting
+[2025-02-06T19:46:08.355Z] INFO: Server Running on port 6969
+[2025-02-06T19:46:12.081Z] INFO: Server Starting
+[2025-02-06T19:46:12.085Z] INFO: Server Running on port 6969
+[2025-02-06T19:46:16.848Z] INFO: Server Starting
+[2025-02-06T19:46:16.852Z] INFO: Server Running on port 6969
+[2025-02-06T19:46:18.392Z] INFO: Server Starting
+[2025-02-06T19:46:18.397Z] INFO: Server Running on port 6969
+[2025-02-06T19:46:20.944Z] INFO: Server Starting
+[2025-02-06T19:46:20.948Z] INFO: Server Running on port 6969
+[2025-02-06T19:46:23.897Z] INFO: Server Starting
+[2025-02-06T19:46:23.901Z] INFO: Server Running on port 6969
+[2025-02-06T19:46:25.222Z] INFO: Server Starting
+[2025-02-06T19:46:25.226Z] INFO: Server Running on port 6969
+[2025-02-06T19:46:32.568Z] INFO: Server Starting
+[2025-02-06T19:46:32.572Z] INFO: Server Running on port 6969
+[2025-02-06T19:46:34.375Z] INFO: Server Starting
+[2025-02-06T19:46:34.380Z] INFO: Server Running on port 6969
+[2025-02-06T19:46:35.848Z] INFO: Server Starting
+[2025-02-06T19:46:35.853Z] INFO: Server Running on port 6969
+[2025-02-06T19:46:40.645Z] INFO: Server Starting
+[2025-02-06T19:46:40.649Z] INFO: Server Running on port 6969
+[2025-02-06T19:49:56.560Z] INFO: Server Starting
+[2025-02-06T19:49:56.566Z] INFO: Server Running on port 6969
+[2025-02-06T19:52:30.201Z] INFO: Server Starting
+[2025-02-06T19:52:30.207Z] INFO: Server Running on port 6969
+[2025-02-06T19:52:33.738Z] INFO: Server Starting
+[2025-02-06T19:52:33.742Z] INFO: Server Running on port 6969
+[2025-02-06T19:53:12.892Z] INFO: Server Starting
+[2025-02-06T19:53:12.897Z] INFO: Server Running on port 6969
+[2025-02-06T19:53:16.837Z] INFO: Server Starting
+[2025-02-06T19:53:16.842Z] INFO: Server Running on port 6969
+[2025-02-06T19:54:36.733Z] INFO: Server Starting
+[2025-02-06T19:54:36.737Z] INFO: Server Running on port 6969
+[2025-02-06T19:56:06.271Z] INFO: Server Starting
+[2025-02-06T19:56:06.277Z] INFO: Server Running on port 6969
+[2025-02-06T19:56:11.273Z] INFO: Server Starting
+[2025-02-06T19:56:11.277Z] INFO: Server Running on port 6969
+[2025-02-06T19:56:49.870Z] INFO: Server Starting
+[2025-02-06T19:56:49.874Z] INFO: Server Running on port 6969
+[2025-02-06T19:57:18.774Z] INFO: Server Starting
+[2025-02-06T19:57:18.778Z] INFO: Server Running on port 6969
+[2025-02-06T19:57:19.756Z] INFO: Server Starting
+[2025-02-06T19:57:19.760Z] INFO: Server Running on port 6969
+[2025-02-06T19:57:34.517Z] INFO: Server Starting
+[2025-02-06T19:57:34.520Z] INFO: Server Running on port 6969
+[2025-02-06T19:58:11.364Z] INFO: Server Starting
+[2025-02-06T19:58:11.370Z] INFO: Server Running on port 6969
+[2025-02-06T19:58:43.941Z] INFO: Server Starting
+[2025-02-06T19:58:43.946Z] INFO: Server Running on port 6969
+[2025-02-06T19:58:44.774Z] INFO: Server Starting
+[2025-02-06T19:58:44.778Z] INFO: Server Running on port 6969
