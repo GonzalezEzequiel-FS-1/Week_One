@@ -1446,3 +1446,20 @@
 [2025-02-06T05:02:42.232Z] INFO: Server Running on port 6969
 [2025-02-06T05:02:45.234Z] INFO: Server Starting
 [2025-02-06T05:02:45.239Z] INFO: Server Running on port 6969
+[2025-02-06T05:07:42.765Z] INFO: Server Starting
+[2025-02-06T05:07:42.772Z] INFO: Server Running on port 6969
+[2025-02-06T05:08:21.931Z] INFO: ::ffff:127.0.0.1 - - [06/Feb/2025:05:08:21 +0000] "POST /api/obscurer HTTP/1.1" 200 78 "http://localhost:5173/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:134.0) Gecko/20100101 Firefox/134.0"
+[2025-02-06T05:08:22.695Z] INFO: ::ffff:127.0.0.1 - - [06/Feb/2025:05:08:22 +0000] "POST /api/obscurer HTTP/1.1" 200 78 "http://localhost:5173/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:134.0) Gecko/20100101 Firefox/134.0"
+[2025-02-06T05:08:25.566Z] INFO: ::ffff:127.0.0.1 - - [06/Feb/2025:05:08:25 +0000] "POST /api/obscurer HTTP/1.1" 200 78 "http://localhost:5173/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:134.0) Gecko/20100101 Firefox/134.0"
+[2025-02-06T05:08:29.215Z] INFO: ::ffff:127.0.0.1 - - [06/Feb/2025:05:08:29 +0000] "POST /api/obscurer HTTP/1.1" 200 74 "http://localhost:5173/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:134.0) Gecko/20100101 Firefox/134.0"
+[2025-02-06T05:08:41.764Z] INFO: ::ffff:127.0.0.1 - - [06/Feb/2025:05:08:41 +0000] "POST /api/obscurer HTTP/1.1" 200 78 "http://localhost:5173/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:134.0) Gecko/20100101 Firefox/134.0"
+[2025-02-06T05:10:51.570Z] INFO: ::ffff:127.0.0.1 - - [06/Feb/2025:05:10:51 +0000] "POST /api/obscurer HTTP/1.1" 200 78 "http://localhost:5173/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:134.0) Gecko/20100101 Firefox/134.0"
+[2025-02-06T05:11:39.002Z] INFO: ::ffff:127.0.0.1 - - [06/Feb/2025:05:11:39 +0000] "POST /api/obscurer HTTP/1.1" 200 78 "http://localhost:5173/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:134.0) Gecko/20100101 Firefox/134.0"
+[2025-02-06T05:12:07.554Z] INFO: ::ffff:127.0.0.1 - - [06/Feb/2025:05:12:07 +0000] "POST /api/obscurer HTTP/1.1" 200 74 "http://localhost:5173/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:134.0) Gecko/20100101 Firefox/134.0"
+[2025-02-06T05:12:22.689Z] INFO: ::ffff:127.0.0.1 - - [06/Feb/2025:05:12:22 +0000] "POST /api/obscurer HTTP/1.1" 200 78 "http://localhost:5173/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:134.0) Gecko/20100101 Firefox/134.0"
+[2025-02-06T05:12:57.096Z] INFO: ::ffff:127.0.0.1 - - [06/Feb/2025:05:12:57 +0000] "POST /api/obscurer HTTP/1.1" 200 74 "http://localhost:5173/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:134.0) Gecko/20100101 Firefox/134.0"
+[2025-02-06T05:13:48.303Z] INFO: ::ffff:127.0.0.1 - - [06/Feb/2025:05:13:48 +0000] "POST /api/obscurer HTTP/1.1" 200 76 "http://localhost:5173/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:134.0) Gecko/20100101 Firefox/134.0"
+[2025-02-06T05:13:50.783Z] INFO: ::ffff:127.0.0.1 - - [06/Feb/2025:05:13:50 +0000] "POST /api/obscurer HTTP/1.1" 200 78 "http://localhost:5173/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:134.0) Gecko/20100101 Firefox/134.0"
+[2025-02-06T05:14:28.986Z] INFO: ::ffff:127.0.0.1 - - [06/Feb/2025:05:14:28 +0000] "POST /api/obscurer HTTP/1.1" 200 77 "http://localhost:5173/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:134.0) Gecko/20100101 Firefox/134.0"
+[2025-02-06T05:14:35.153Z] INFO: ::ffff:127.0.0.1 - - [06/Feb/2025:05:14:35 +0000] "POST /api/obscurer HTTP/1.1" 200 75 "http://localhost:5173/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:134.0) Gecko/20100101 Firefox/134.0"
+[2025-02-06T05:14:39.248Z] INFO: ::ffff:127.0.0.1 - - [06/Feb/2025:05:14:39 +0000] "POST /api/obscurer HTTP/1.1" 200 78 "http://localhost:5173/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:134.0) Gecko/20100101 Firefox/134.0"

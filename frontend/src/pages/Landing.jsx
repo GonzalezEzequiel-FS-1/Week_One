@@ -9,12 +9,12 @@ export default function Landing() {
 
     const formatInput = (value) => {
         if (!value) {
-            setError("Please provide a number 9 to 16 characters long");
+            setError("Please provide a number 12 to 16 characters long");
             return "";
         }
 
         let cleaned = value.replace(/\D/g, "");
-        setError(""); // Clear error when input is valid
+        setError("");
 
         return cleaned.replace(/(\d{4})(?=\d)/g, "$1-");
     };
@@ -27,8 +27,9 @@ export default function Landing() {
         e.preventDefault();
         const cleanedNumber = number.replace(/\D/g, "");
 
-        if (cleanedNumber.length < 9 || cleanedNumber.length > 16) {
-            setError("Please provide a number 9 to 16 digits long");
+        if (cleanedNumber.length < 12) {
+            setError("Please provide a number 12 to 16 digits long");
+            setObscuredNumber('')
             return;
         }
 
@@ -37,13 +38,12 @@ export default function Landing() {
                 sentNumber: cleanedNumber
             });
 
-            setObscuredNumber(response.data.message); // Update UI with the response
-            setError(""); // Clear any previous errors
+            setObscuredNumber(response.data.message);
+            setError(""); 
         } catch (error) {
             setError(error.response?.data?.message || "Something went wrong. Please try again.");
         }
     };
-
     return (
         <Container>
             <FormContainer onSubmit={submitForm}>

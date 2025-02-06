@@ -14,7 +14,7 @@ const obscurer = (req, res) => {
     if (number.length > 16 || number.length < 9) {
         return res.status(400).json({
             success: false,
-            message: "Number should be between 9 and 16 digits"
+            message: "Number should be between 12 and 16 digits"
         });
     }
 
