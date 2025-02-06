@@ -9,7 +9,7 @@ export default function Landing() {
 
     const formatInput = (value) => {
         if (!value) {
-            setError("Please provide a number 12 to 16 characters long");
+            setError("Invalid Credit Card, Please provide a number 12 to 16 characters long");
             return "";
         }
 
@@ -28,7 +28,7 @@ export default function Landing() {
         const cleanedNumber = number.replace(/\D/g, "");
 
         if (cleanedNumber.length < 12) {
-            setError("Please provide a number 12 to 16 digits long");
+            setError("Invalid Credit Card, Please provide a number 12 to 16 digits long");
             setObscuredNumber('')
             return;
         }
