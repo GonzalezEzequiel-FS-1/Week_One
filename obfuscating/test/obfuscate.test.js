@@ -1,21 +1,22 @@
 const obfuscator = require('../obsfuscate')
 
-const creditCardNumber = ["○○○○○○○○○○○○"]
-let mockInput;
 describe('Credit Card Checker', () => {
     test("Must contain 9 to 16 characters", () => {
-        expect(obfuscator(["1111111111111111"]).length).toBeGreaterThanOrEqual(12)
-        expect(obfuscator(["1111111111111111"]).length).toBeLessThanOrEqual(16)
+        const input = ["1111111111111"]
+        expect(input[0].length).toBeGreaterThanOrEqual(12)
+        expect(input[0].length).toBeLessThanOrEqual(16)
     })
     test('Must be obfuscated', () => {
-        expect(obfuscator(["1111111111111111"])).toContain("○○○○○○○○○○○○")
+        const input = ["1234561312341516"]
+        expect(obfuscator(input)).toContain("○○○○○○○○○○○○")
     })
     test('Obfuscates correctly a 12 digit number', () => {
-        expect(obfuscator(["121313141516"])).toBe("○○○○○○○○1516")
+        const input = ["123452341516"]
+        expect(obfuscator(input)).toBe("○○○○○○○○1516")
     })
 
 })
-describe('Edge Cases', () => {
+describe('Testing errors', () => {
     test("Only accepts numeric values", () => {
         expect(() => obfuscator(["abcdef123456"])).toThrow("Input must contain only numeric values");
     })
