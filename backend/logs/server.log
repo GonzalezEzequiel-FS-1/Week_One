@@ -1573,3 +1573,8 @@
 [2025-02-06T19:58:43.946Z] INFO: Server Running on port 6969
 [2025-02-06T19:58:44.774Z] INFO: Server Starting
 [2025-02-06T19:58:44.778Z] INFO: Server Running on port 6969
+[2025-02-06T20:12:17.991Z] INFO: Server Starting
+[2025-02-06T20:12:17.997Z] INFO: Server Running on port 6969
+[2025-02-06T20:12:20.623Z] INFO: ::ffff:127.0.0.1 - - [06/Feb/2025:20:12:20 +0000] "POST /api/obscurer HTTP/1.1" 200 78 "http://localhost:5173/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:134.0) Gecko/20100101 Firefox/134.0"
+[2025-02-06T20:12:23.883Z] INFO: ::ffff:127.0.0.1 - - [06/Feb/2025:20:12:23 +0000] "POST /api/obscurer HTTP/1.1" 200 74 "http://localhost:5173/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:134.0) Gecko/20100101 Firefox/134.0"
+[2025-02-06T20:12:52.621Z] INFO: Server shutting down
