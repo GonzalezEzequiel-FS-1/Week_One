@@ -1578,3 +1578,11 @@
 [2025-02-06T20:12:20.623Z] INFO: ::ffff:127.0.0.1 - - [06/Feb/2025:20:12:20 +0000] "POST /api/obscurer HTTP/1.1" 200 78 "http://localhost:5173/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:134.0) Gecko/20100101 Firefox/134.0"
 [2025-02-06T20:12:23.883Z] INFO: ::ffff:127.0.0.1 - - [06/Feb/2025:20:12:23 +0000] "POST /api/obscurer HTTP/1.1" 200 74 "http://localhost:5173/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:134.0) Gecko/20100101 Firefox/134.0"
 [2025-02-06T20:12:52.621Z] INFO: Server shutting down
+[2025-02-11T02:01:20.166Z] INFO: Server Starting
+[2025-02-11T02:01:20.172Z] INFO: Server Running on port 6969
+[2025-02-11T02:03:03.463Z] INFO: ::ffff:127.0.0.1 - - [11/Feb/2025:02:03:03 +0000] "POST /api/obscurer HTTP/1.1" 200 78 "http://localhost:5173/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:135.0) Gecko/20100101 Firefox/135.0"
+[2025-02-11T02:03:11.137Z] INFO: ::ffff:127.0.0.1 - - [11/Feb/2025:02:03:11 +0000] "POST /api/obscurer HTTP/1.1" 200 74 "http://localhost:5173/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:135.0) Gecko/20100101 Firefox/135.0"
+[2025-02-11T02:03:25.178Z] INFO: ::ffff:127.0.0.1 - - [11/Feb/2025:02:03:25 +0000] "POST /api/obscurer HTTP/1.1" 200 78 "http://localhost:5173/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:135.0) Gecko/20100101 Firefox/135.0"
+[2025-02-11T02:04:04.196Z] INFO: ::ffff:127.0.0.1 - - [11/Feb/2025:02:04:04 +0000] "POST /api/obscurer HTTP/1.1" 200 78 "http://localhost:5173/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:135.0) Gecko/20100101 Firefox/135.0"
+[2025-02-11T02:07:25.423Z] INFO: ::ffff:127.0.0.1 - - [11/Feb/2025:02:07:25 +0000] "POST /api/obscurer HTTP/1.1" 200 78 "http://localhost:5173/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:135.0) Gecko/20100101 Firefox/135.0"
+[2025-02-11T02:07:48.872Z] INFO: ::ffff:127.0.0.1 - - [11/Feb/2025:02:07:48 +0000] "POST /api/obscurer HTTP/1.1" 200 78 "http://localhost:5173/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:135.0) Gecko/20100101 Firefox/135.0"
